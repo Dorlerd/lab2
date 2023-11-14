@@ -1,0 +1,5 @@
+VAR
+	Led : LedStateMashine;
+	Door : DoorStateMashine;
+	Motor : DriveStateMashine;
+END_VAR
